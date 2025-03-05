@@ -1,0 +1,2 @@
+Adapted and cut down version from https://github.com/cturra/docker-ntp/
+Thank you!
